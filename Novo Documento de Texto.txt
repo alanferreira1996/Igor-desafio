@@ -7,7 +7,7 @@ git status - mostra os arquivos que foram modificados ou adicionados.
 git add . - Adiciona todos os arquivos a partir de um diretorio para serem comitados.
 git commit -m "mensagem" - Salva as alterações com uma mensagem do que foi feito.
 git push origin master - Envia os arquivos para o repositorio do github
-z
+git pull origin master - Baixa o projeto
 
 	
 
