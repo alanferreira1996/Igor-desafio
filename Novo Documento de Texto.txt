@@ -1,1 +1,16 @@
 Desafio do igor.
+
+Sempre abrir o git dentro da pasta do projeto.
+git config --global user.name "Alan Ferreira"
+git init - inicia projeto no git
+git status - mostra os arquivos que foram modificados ou adicionados.
+git add . - Adiciona todos os arquivos a partir de um diretorio para serem comitados.
+git commit -m "mensagem" - Salva as alterações com uma mensagem do que foi feito.
+git push origin master - Envia os arquivos para o repositorio do github
+z
+
+	
+
+==============================================================================================
+
+(master) quando tiver o master o projeto foi iniciado pelo git.
